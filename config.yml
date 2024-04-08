@@ -1,0 +1,6 @@
+strava:
+  scopes : activity:read,read
+  authorize_url:  https://www.strava.com/oauth/authorize
+  token_url: https://www.strava.com/oauth/token
+  activities_url: https://www.strava.com/api/v3/athlete/activities
+  redirect_uri: http://localhost
